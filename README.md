@@ -2,8 +2,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/quinhgill/)
 - 🔗 [Devpost](https://devpost.com/qhgill)
 - 🔗 [Email](mailto:qhgill2@gmail.com)
-<br/>
-🛠️ Currently working on an image distortion web app
 
 <!---
 qhgill/qhgill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
