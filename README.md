@@ -1,5 +1,7 @@
 👋 Hi, I’m Quin, Currently a 4th year Computer Science major and Project lead at [ACM@UCR](https://github.com/acm-ucr)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/quinhgill/)
+- 🔗 [Portfolio](https://qhgill.github.io/)
 - 🔗 [Devpost](https://devpost.com/qhgill)
 - 🔗 [Email](mailto:quinhgill26@gmail.com)
+
 
